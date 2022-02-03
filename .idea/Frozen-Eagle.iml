@@ -7,11 +7,13 @@
       <sourceFolder url="file://$MODULE_DIR$/very-barycentric/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/fourier-transformations/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Two-Bits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fractal/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/very-barycentric/target" />
       <excludeFolder url="file://$MODULE_DIR$/concurrency/target" />
       <excludeFolder url="file://$MODULE_DIR$/Fibbing-Dots/target" />
       <excludeFolder url="file://$MODULE_DIR$/fourier-transformations/target" />
       <excludeFolder url="file://$MODULE_DIR$/Two-Bits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Fractal/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
