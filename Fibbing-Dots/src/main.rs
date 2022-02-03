@@ -12,7 +12,7 @@ fn main() {
 
         stdin().read_line(&mut line).unwrap();
 
-        let mut v: Vec<i128> = line.trim().split_whitespace().map(|x| x.parse().unwrap()).collect();
+        let mut v: Vec<u64> = line.trim().split_whitespace().map(|x| x.parse().unwrap()).collect();
 
         if let [_limit, f2, f4, fn2, _fn4] = v.as_slice()[..] {
             let f1 = f4 - f2 * 2;

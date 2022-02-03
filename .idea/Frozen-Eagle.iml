@@ -5,9 +5,11 @@
       <sourceFolder url="file://$MODULE_DIR$/Fibbing-Dots/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/concurrency/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/very-barycentric/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fourier-transformations/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/very-barycentric/target" />
       <excludeFolder url="file://$MODULE_DIR$/concurrency/target" />
       <excludeFolder url="file://$MODULE_DIR$/Fibbing-Dots/target" />
+      <excludeFolder url="file://$MODULE_DIR$/fourier-transformations/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
